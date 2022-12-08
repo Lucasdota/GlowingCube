@@ -1,4 +1,4 @@
-# Cubes
+# Cube
 obs: I watched a tutorial showing how to do this, so I decided to upload this on GitHub so I can study it later.
 
 Description:
